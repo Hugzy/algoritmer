@@ -4,7 +4,7 @@
 Lad hvert element på ovenstående liste korespondere til et 1-indekseret array
 da vil den asymptotiske rækkefølge lyde således:
 
-3, 5, 1, 4, 2
+5, 3, 1, 4, 2
 
 # Assignment 2
 ![alt text](\images\assignment2.PNG)
