@@ -34,4 +34,14 @@ Yes because 7>6
 ## Where in a max-heap might the smallest element reside, assuming that all elements are distinct?
 In the leafs located at _h_ depth.
 
- 
+# Exercise Eksamen januar 2006, opgave 1 b
+## Bemærk at der er tale om en minheap.
+To sættes ind på den først ledig plads, hvilket er til højre for 17 og under 10,men fordi at denne heap følger min-heap princippet ved man at ethvert 'blad' ikke må have en værdi der er mindre end det af dets 'gren' derfor byttes 10 og 2 om. Igen tjekkes om 2 er mindre end sin rod som er 3, hvilket den er, derfor ombyttes 2 og 3. 2 sammenlignes med 1 og her ses at 1 er den mindste så derfor bliver der ikke byttet om på noget, og 2 er nu successfuldt blevet indsat i heapen.
+
+# Illustrate the Max-Heapify(A,3) on the following array
+## A = [27, 17, 3, 16, 13, 10, 1, 5, 7, 12, 4, 8, 9, 0]
+![alt-text]()
+
+
+
+
