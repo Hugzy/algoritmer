@@ -13,7 +13,7 @@ Show that the running time for HeapSort is Omega(n log n)
 Illustrate the operation of _COUNTING-SORT_ on the array A= [6, 0, 2, 0, 1, 3, 4, 6, 1, 3, 2]
 
 ### `Answer`
-![alt-text](\images\ass1.png)
+![](\images\ass1.png)
 
 ### Assignment 8.2-3
 ***
